@@ -1,0 +1,20 @@
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Project1BuildDemo.exe.config
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Project1BuildDemo.exe
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Project1BuildDemo.pdb
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Microsoft.Build.dll
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Microsoft.Build.Engine.dll
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\obj\Debug\Project1BuildDemo.exe
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\obj\Debug\Project1BuildDemo.pdb
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\obj\Debug\Project1BuildDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Project1BuildDemo.exe.config
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Project1BuildDemo.exe
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Project1BuildDemo.pdb
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Microsoft.Build.dll
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\Microsoft.Build.Engine.dll
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\obj\Debug\Project1BuildDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\obj\Debug\Project1BuildDemo.exe
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\obj\Debug\Project1BuildDemo.pdb

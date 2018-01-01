@@ -1,0 +1,17 @@
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+C:\Users\Ojas Juneja\Desktop\2. SMA\Project Codes\Project 1\Project1BuildDemo\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+C:\Users\Ojas Juneja\Desktop\Project 1\Project1BuildDemo\Project1BuildDemo\bin\Debug\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
